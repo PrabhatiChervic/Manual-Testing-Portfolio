@@ -13,7 +13,9 @@ I am a Manual QA Tester building my skills in software testing, test case design
 - Regression Testing
 
 ## Sample Projects
-
+- AGS TICKETING
+- SILA FATOORA
+- VOSOX/ SILA
 ### 1. Login Page Testing
 - Validate login with valid and invalid credentials.
 - Verify mandatory field validation.
