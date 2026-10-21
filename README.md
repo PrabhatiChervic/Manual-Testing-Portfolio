@@ -1,6 +1,6 @@
 Prabhati Behera | Manual QA Testing Portfolio
 
-About Me
+About Me:-
 Manual QA Tester with experience in functional testing, test case design, test scenario preparation, defect reporting, and workflow validation across business applications
 
 Skills
