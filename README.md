@@ -1,36 +1,43 @@
-# Prabhati Behera | Manual QA Testing Portfolio
+Prabhati Behera | Manual QA Testing Portfolio
 
-## About Me
-I am a Manual QA Tester building my skills in software testing, test case design, test scenarios, and bug reporting.
+About Me
+Manual QA Tester with experience in functional testing, test case design, test scenario preparation, defect reporting, and workflow validation across business applications
 
-## Skills
-- Manual Testing
+Skills
 - Functional Testing
-- Test Case Design
+- Test Case Design and Execution
 - Test Scenario Preparation
-- Bug Reporting
+- Bug Reporting and Defect Tracking
 - Positive and Negative Testing
 - Regression Testing
+- Field Validation and Workflow Testing
 
-## Sample Projects
-- AGS TICKETING
-- SILA FATOORA
-- VOSOX/ SILA
-### 1. Login Page Testing
-- Validate login with valid and invalid credentials.
-- Verify mandatory field validation.
-- Check error messages and password visibility.
+Project Experience
+1. AGS Ticketing
+- Ticket creation and approval workflow testing
+- Role-based access validation
+- Ticket status verification
 
-### 2. RFQ Workflow Testing
-- Verify RFQ creation with valid data.
-- Check mandatory field validations.
-- Test RFQ submission and status changes.
-- Document expected and actual results.
+2. SILA Fatoora
+- Invoice processing workflow testing
+- OCR data extraction validation
+- Invoice validation and approval workflow testing
 
-## Testing Documents
+3. VOSOX / SILA
+- Supplier onboarding and login testing
+- RFQ creation and submission workflow testing
+- Procurement workflow validation
+
+4. L&T- SLP AON
+- Supplier validation workflow testing
+- Form field validation and functional testing
+- Test case preparation and defect reporting
+- Expected versus actual result verification
+
+Testing Documents
 - Test Cases
 - Test Scenarios
-- Sample Bug Reports
-- Test Summary Reports
+- Bug Reports
+- Test Reports
 
-**Note:** This portfolio contains sample testing work and excludes confidential company information.
+Note: This portfolio contains sample testing work and excludes confidential company information
